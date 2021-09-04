@@ -1,0 +1,2 @@
+class whan1 {
+}

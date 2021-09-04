@@ -1,0 +1,2 @@
+class ArrayList1 {
+}
