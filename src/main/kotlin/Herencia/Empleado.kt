@@ -1,0 +1,4 @@
+package Herencia
+
+class Empleado {
+}
