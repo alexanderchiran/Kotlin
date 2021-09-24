@@ -1,0 +1,4 @@
+package Abstract
+
+class Poligono {
+}
